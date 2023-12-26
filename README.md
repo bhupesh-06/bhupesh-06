@@ -11,7 +11,8 @@ Projects
 
 <a href="https://bhupesh06.netlify.app/" target="blank">
  
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupesh06/" height="30" width="40" /></a>
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupesh06/" height="30" width="40" /
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bhupesh06.netlify.app/" height="30" width="40" />></a>
  
 </p>
 
