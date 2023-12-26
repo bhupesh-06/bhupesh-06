@@ -2,6 +2,9 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> I’m interested in DevOps & Cloud Computing
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34"> Currently working on DevOps Tools, AWS, Azure & Linux
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="47"> Looking to collaborate on DevOps 
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="47"> Do Visit My Portfollio
+ <a href="https://bhupesh06.netlify.app/" target="blank">
+  
 Projects
 - 📫 How to reach me **bhupeshdubey06@outlook.com**
 
@@ -12,7 +15,7 @@ Projects
 <a href="https://bhupesh06.netlify.app/" target="blank">
  
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhupesh06/" height="30" width="40" /
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bhupesh06.netlify.app/" height="30" width="40" />></a>
+  
  
 </p>
 
