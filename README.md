@@ -2,7 +2,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> I’m interested in DevOps & Cloud Computing
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34"> Currently working on DevOps Tools, AWS, Azure & Linux
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="47"> Looking to collaborate on DevOps
-  h3 align="left">My Portfolio<:</h3>
+  <h3 align="left">My Portfolio<:</h3>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="47"> https://bhupesh06.netlify.app/
                          
                         
