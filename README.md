@@ -21,7 +21,7 @@ DevOps & Cloud Engineer based in **Bangalore, India** — passionate about autom
 - 🔒 **Security-hardened** environments with Wazuh, SentinelOne, LDAP & VAPT
 - 📊 Full **observability stacks** — Prometheus, Grafana, ELK, Cloudwatch, Google Cloud Monotoring Dashboard
 
-> 🎯 **Open to:** DevOps Engineer · Cloud Engineer · Platform Engineer · SRE — Bangalore / Hybrid / Remote
+> 🎯 **Open to:** DevOps Engineer · Cloud Engineer · Platform Engineer — India On-Site / Hybrid / Remote 
 
 ---
 
