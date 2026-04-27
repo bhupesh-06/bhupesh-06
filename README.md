@@ -27,8 +27,8 @@ DevOps & Cloud Engineer based in **Bangalore, India** — passionate about autom
 
 ## ☁️ Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-EC2·S3·VPC·IAM·EKS·RDS·Lambda·CloudWatch·Route53-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-GKE·GCS·Cloud_Run·IAM·BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2·S3·VPC·IAM·EKS·RDS·Lambda·CloudWatch·Route53.Security_hub.Guard_Duty.Certificate_Management.Secret_Managment-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-GKE·GCS·VM_Instance.Bucket.Cloud_DNS.Loadbalancing·IAM·Service_Account.Cloud_Monitoring.-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
