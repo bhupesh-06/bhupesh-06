@@ -19,7 +19,7 @@ DevOps & Cloud Engineer based in **Bangalore, India** — passionate about autom
 - ⎈ **Kubernetes** cluster management (EKS, GKE) and Helm-based deployments
 - 🔁 End-to-end **CI/CD pipelines** — GitLab CI, Jenkins, ArgoCD
 - 🔒 **Security-hardened** environments with Wazuh, SentinelOne, LDAP & VAPT
-- 📊 Full **observability stacks** — Prometheus, Grafana, ELK
+- 📊 Full **observability stacks** — Prometheus, Grafana, ELK, Cloudwatch, Google Cloud Monotoring Dashboard
 
 > 🎯 **Open to:** DevOps Engineer · Cloud Engineer · Platform Engineer · SRE — Bangalore / Hybrid / Remote
 
