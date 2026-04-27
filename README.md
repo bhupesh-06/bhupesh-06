@@ -17,7 +17,7 @@ DevOps & Cloud Engineer based in **Bangalore, India** — passionate about autom
 
 - ☁️ Cloud-native infrastructure on **AWS & GCP** using Terraform & IaC
 - ⎈ **Kubernetes** cluster management (EKS, GKE) and Helm-based deployments
-- 🔁 End-to-end **CI/CD pipelines** — GitLab CI, GitHub Actions, Jenkins, ArgoCD
+- 🔁 End-to-end **CI/CD pipelines** — GitLab CI, Jenkins, ArgoCD
 - 🔒 **Security-hardened** environments with Wazuh, SentinelOne, LDAP & VAPT
 - 📊 Full **observability stacks** — Prometheus, Grafana, ELK
 
