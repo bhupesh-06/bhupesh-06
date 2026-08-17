@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/bhupesh06"><img src="https://img.shields.io/badge/LinkedIn-bhupesh06-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="mailto:bhupeshdubey06@outlook.com"><img src="https://img.shields.io/badge/Email-bhupeshdubey06-D14836?style=flat&logo=gmail"/></a>
+  <a href="mailto:bhupesh.dubey.dev@google.com"><img src="https://img.shields.io/badge/Email-bhupeshdubey06-D14836?style=flat&logo=gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=bhupesh-06&style=flat&color=blue"/>
 </p>
 
